@@ -1,4 +1,4 @@
-This code package still needs to be updated to Processing 4.x and is work in progress! Most of it should work by now.
+This code package still needs to be updated to Processing 4.x and is work in progress!
 ===============================================
 
 Generative Design Code Package (for Processing-4.x)
@@ -8,7 +8,7 @@ Hi. This GitHub repository completes the book [Generative Design](http://www.gen
 
 http://www.generative-gestaltung.de
 
-**This code package still needs to be updated to Processing 4.x. We do our best to finish it as soon as possible.**
+**This code package still needs to be updated to Processing 4.x.**
 
 **Authors**
 - Hartmut Bohnacker
